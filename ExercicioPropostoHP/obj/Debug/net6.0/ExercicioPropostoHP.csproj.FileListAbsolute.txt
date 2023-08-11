@@ -1,0 +1,15 @@
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/bin/Debug/net6.0/ExercicioPropostoHP
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/bin/Debug/net6.0/ExercicioPropostoHP.deps.json
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/bin/Debug/net6.0/ExercicioPropostoHP.runtimeconfig.json
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/bin/Debug/net6.0/ExercicioPropostoHP.dll
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/bin/Debug/net6.0/ExercicioPropostoHP.pdb
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.csproj.AssemblyReference.cache
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.AssemblyInfoInputs.cache
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.AssemblyInfo.cs
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.csproj.CoreCompileInputs.cache
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.dll
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/refint/ExercicioPropostoHP.dll
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.pdb
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ExercicioPropostoHP.genruntimeconfig.cache
+/home/henrique_medeiros/RiderProjects/ExercicioPropostoHP/ExercicioPropostoHP/obj/Debug/net6.0/ref/ExercicioPropostoHP.dll
